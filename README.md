@@ -17,3 +17,6 @@ Bayes' formula.
 Let us work with this example from a U.S setting. The goal is to predict the political inclination
 (conservative or liberal) of a person based on his or her job (analyst, barista, cook, or doctor), sex
 (male, female), and annual income (low, medium, high).
+
+Sample input data
+![alt text]()
