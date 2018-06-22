@@ -26,3 +26,5 @@ Sample input data
 Classification 
 
 ![alt text](https://github.com/Dna072/NaiveBayes-SupervisedLearning/blob/master/resources/nb_test.jpg)
+
+Accuracy would be significantly improved with more data
