@@ -13,6 +13,7 @@ In Ghana at least, this largely depends on ethnicity, level of education, curren
 Thus if we wanted to tell one's political inclination given that he comes from the Volta region, has basic education, fair economic
 state, carpenter and male, we have to consider all these factors and this changes the dimension of the
 Bayes' formula.
+
 Let us work with this example from a U.S setting. The goal is to predict the political inclination
 (conservative or liberal) of a person based on his or her job (analyst, barista, cook, or doctor), sex
 (male, female), and annual income (low, medium, high).
