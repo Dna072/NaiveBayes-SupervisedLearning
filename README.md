@@ -19,4 +19,10 @@ Let us work with this example from a U.S setting. The goal is to predict the pol
 (male, female), and annual income (low, medium, high).
 
 Sample input data
+
 ![alt text](https://github.com/Dna072/NaiveBayes-SupervisedLearning/blob/master/resources/nb_data.jpg)
+
+
+Classification 
+
+![alt text](https://github.com/Dna072/NaiveBayes-SupervisedLearning/blob/master/resources/nb_test.jpg)
