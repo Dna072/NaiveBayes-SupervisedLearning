@@ -9,12 +9,12 @@ This is a typical supervised learning task which can be achieved computationally
 algorithm known as the Naive Bayes algorithm.
 
 # Project
-In Ghana at least, this largely depends on ethnicity, level of education, current economic state, occupation, gender, etc.
+In Ghana, political inclination may depend on ethnicity, level of education, current economic state, occupation, gender, etc.
 Thus if we wanted to tell one's political inclination given that he comes from the Volta region, has basic education, fair economic
 state, carpenter and male, we have to consider all these factors and this changes the dimension of the
 Bayes' formula.
 
-Let us work with this example from a U.S setting. The goal is to predict the political inclination
+Let us work with this example from a U.S setting. The goal of the project is to predict the political inclination
 (conservative or liberal) of a person based on his or her job (analyst, barista, cook, or doctor), sex
 (male, female), and annual income (low, medium, high).
 
@@ -28,3 +28,5 @@ Classification
 ![alt text](https://github.com/Dna072/NaiveBayes-SupervisedLearning/blob/master/resources/nb_test.jpg)
 
 Accuracy would be significantly improved with more data
+
+
